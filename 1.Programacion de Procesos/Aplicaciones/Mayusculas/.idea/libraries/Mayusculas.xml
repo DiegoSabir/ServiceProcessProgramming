@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mayusculas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Mayusculas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
