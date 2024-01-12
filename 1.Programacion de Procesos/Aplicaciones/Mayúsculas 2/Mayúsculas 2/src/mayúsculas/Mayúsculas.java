@@ -13,6 +13,7 @@ public class Mayúsculas {
             System.err.println("\nSe necesita un programa a ejecutar y un fichero a crear");
             System.exit(-1);
         }
+
        // el proceso ha recibido dos argumentos en su llamada: el ejecutable a instanciar como proceso hijo y un 
        // segundo argumento con la especificación en disco del fichero  de salida a crear.
         File fichero = new File(args[1]); //utilizamos aquí segundo argumento recibido
@@ -38,16 +39,19 @@ public class Mayúsculas {
                 if (line.compareTo("kk") != 0) {
                     fw.write(line + "\r\n");  // la cadena procesada la escribo en el fichero
                 }
-            } while (texto.compareTo("ff") != 0);
-        } catch (IOException ex) {
+            }
+            while (texto.compareTo("ff") != 0);
+        }
+        catch (IOException ex) {
             System.out.println(ex.getMessage());
-        } finally {
+        }
+        finally {
             try {
                 if (fw != null) {
                     fw.close();  // cierro fichero 
                 }
-            } catch (IOException ex) {
             }
+            catch (IOException ex) {}
         }
     }
 }
