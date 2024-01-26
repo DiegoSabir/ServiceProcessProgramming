@@ -17,8 +17,7 @@ public class Aleatorios {
        //args es  aleatorioshijo.exe
       try{
 		Process hijo = new ProcessBuilder(args).start();
-                BufferedReader br = new BufferedReader(new
-                            InputStreamReader(hijo.getInputStream()));
+                BufferedReader br = new BufferedReader(new InputStreamReader(hijo.getInputStream()));
                 //br es un stream de entrada conectado  (mediante una pipe) a la salida estándar del proceso hijo
                 // el proceso aleatorios (padre) leerá en él la información que el proceso hijo le deja.
                 // en este caso un nuevo número aleatorio
@@ -34,8 +33,8 @@ public class Aleatorios {
                     ps.flush(); // Asegura que los datos se han enviado
                     
                     if ((line = br.readLine()) != null) {
-                                    System.out.println(line);
-                           }
+                        System.out.println(line);
+                    }
                 }//fin while
                 //usuario teclea "fin", padre finaliza el proceso hijo
                 System.out.println("Finalizando");

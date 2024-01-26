@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8556f6a6-0f63-4d4e-ad58-7e60c18ee0a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../1. Programacion de procesos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Programacion de procesos.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/Aleatorios 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aleatorios 2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aleatorios/src/aleatorios/Aleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aleatorios/src/aleatorios/Aleatorios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mayusculas/Mayusculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mayusculas/Mayusculas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mayúsculas 2/Mayúsculas 2/src/mayúsculas/Mayúsculas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mayúsculas 2/Mayúsculas 2/src/mayúsculas/Mayúsculas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Resumen programacion de procesos.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +25,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/OneDrive/Documentos/GitHub/ServiceProcessProgramming/1.Programacion de Procesos/Aplicaciones/Mayusculas&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/diego/OneDrive/Documentos/GitHub/ServiceProcessProgramming/1.Programacion de Procesos/Aplicaciones/Mayúsculas 2"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
