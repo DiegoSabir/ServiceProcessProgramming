@@ -48,10 +48,6 @@ public class HiloServidor extends Thread {
 	} // fin while
 
 	System.out.println("FIN CON: " + socket.toString());
-       
-		 
-		
-		 
 		try {
                         fsalida.close();
 			fentrada.close();
